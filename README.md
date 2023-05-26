@@ -1,17 +1,21 @@
-# Bonjour! 👋
+# Hello! 👋
 
-Je m'appelle Hamadou Tshongany et je suis un développeur Python depuis 2018.
+My name is Hamadou Tshongany and I have been a Python developer since 2018.
 
-## À propos de moi
+## About me
 
-Je suis passionné par la programmation et j'aime résoudre des problèmes complexes en utilisant Python. J'ai travaillé sur de nombreux projets intéressants et j'ai acquis une solide expérience dans ce domaine.
+I am passionate about programming and I love solving complex problems using Python. I have worked on many interesting projects and have gained solid experience in this field.
 
-## Mes compétences
+## My skills
 
 - Python
-- Développement de logiciels
-- Résolution de problèmes
+- Django 
+- Flask 
+- C language
+- SQL / MySQL 
+- Linux
+- Algorithmics
 
-## Contactez-moi
+## Contact me
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez en savoir plus sur mon travail!
+Feel free to contact me if you have any questions or if you would like to know more about my work!
